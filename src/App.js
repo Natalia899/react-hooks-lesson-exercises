@@ -1,5 +1,6 @@
 import React from 'react'
 import './App.css'
+import axios from 'axios'
 import SpotCheck1 from './spot-checks/SpotCheck1'
 import SpotCheck2 from './spot-checks/SpotCheck2'
 import SpotCheck3 from './spot-checks/SpotCheck3'

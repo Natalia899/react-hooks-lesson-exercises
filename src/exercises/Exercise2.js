@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 export default function Exercise2() {
-  // your code here
+
   const [users, setUsers] = useState([])
 
   useEffect(() => {
